@@ -1,0 +1,17 @@
+.jumbotron {
+    min-height: 640px;
+}
+
+
+.header {
+    background-image: url("../images/backgrounds-blue.jpg");
+}
+
+.site-title {
+    color: #ffffff;
+    font-family: 'Lora', serif;
+}
+
+.lead, .menu-item ul, .menu-item li a {
+    color: #ffffff;
+}
